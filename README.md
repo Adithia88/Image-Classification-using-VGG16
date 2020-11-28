@@ -1,8 +1,8 @@
-# Mask R-CNN for Object Detection and Segmentation
+# Image Classification using VGG16
 
 This is an implementation of image classification using cnn with vgg16 as backbone on Python 3, Keras, and TensorFlow. The model generates pattern to image classification
 
-![Image Classification Sample](assets/1.png)
+![Image Classification Sample](assets/1.PNG)
 
 Dataset (Gdrive) : https://drive.google.com/drive/folders/1bwldB0owjeroiL8kLJL0NMJHqF4dfyjk?usp=sharing
 
@@ -25,21 +25,21 @@ Download this repo and dataset too, if u want use this dataset
 
 1. Make sure the path like this 
 
-![Important Path](assets/2.png)
+![Important Path](assets/2.PNG)
 
 make sure again about Gdrive the important one dataset must be like this
 
-![Gdrive path](assets/3.png)
+![Gdrive path](assets/3.PNG)
 
-![Train/val/Test Path](assets/4.png)
+![Train/val/Test Path](assets/4.PNG)
 
 2. Upload all data to google drive ,which one matching with google colab email
 
 3. Open google colab and use this code VGG16_CNN.ipynb, the part u must change just their class 
 
-![train line codes you must change ](assets/5.png)
+![train line codes you must change ](assets/5.PNG)
 
-![train line codes you must change ](assets/6.png)
+![train line codes you must change ](assets/6.PNG)
 
 total lines u must change are 6 
 
@@ -48,13 +48,13 @@ total lines u must change are 6
 
 1. Make sure the path like this 
 
-![Important Path](assets/2.png)
+![Important Path](assets/2.PNG)
 
 make sure again about Gdrive the important one dataset must be like this
 
-![Gdrive path](assets/3.png)
+![Gdrive path](assets/3.PNG)
 
-![Train/val/Test Path](assets/4.png)
+![Train/val/Test Path](assets/4.PNG)
 
 2. Upload all data to google drive ,which one matching with google colab email
 
@@ -62,9 +62,9 @@ make sure again about Gdrive the important one dataset must be like this
 
 4. Upload Photo what u want to predict
 
-![upload Photo](assets/7.png)
+![upload Photo](assets/7.PNG)
 
 5. result like this
 
-![Result](assets/8.png)
+![Result](assets/8.PNG)
 
